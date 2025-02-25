@@ -52,13 +52,15 @@
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=oGiOliveira&theme=react-dark&hide_border=true&color=8892D4&line=6873D6&point=D1A6FF" width="100%">
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--
+🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ 
 <p align="center">
 <h2 align="center">CONTRIBUIÇÃO EM GRADE</h2>
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </details>
+-->
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
