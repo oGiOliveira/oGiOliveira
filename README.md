@@ -1,6 +1,6 @@
 ## Olá sou o Guilherme👋
 
-- 🔭 Estou trabalhando no: Slimehop Adventures (meu jogo no GameMaker Studio)
+- 🔭 Estou trabalhando Em: Projetos para Portfolio
 - 🌱 Estou estudando: Front End
 - 📫 Moro em: São Paulo, Brasil
 - 😄 Pronomes: ele/dele
