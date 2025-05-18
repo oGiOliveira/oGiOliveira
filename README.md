@@ -9,6 +9,16 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<h1 align="center">STATUS</h1>
+
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=oGiOliveira&show_icons=true&theme=tokyonight&border_color=8892D4">
+
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=oGiOliveira&theme=tokyonight&border=8892D4">
+
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/oGiOliveira/AutomotiveCars"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=oGiOliveira&theme=tokyonight&layout=compact&border_color=8892D4&langs_count=6">
