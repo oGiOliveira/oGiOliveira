@@ -49,9 +49,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=oGiOliveira&color=2A3780&style=for-the-badge">
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=oGiOliveira&theme=react-dark&hide_border=true&color=8892D4&line=6873D6&point=D1A6FF" width="100%">
-
 <!--
 🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ 
 <p align="center">
