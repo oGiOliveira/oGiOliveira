@@ -1,7 +1,7 @@
 ## Olá sou o Guilherme👋
 
 - 🔭 Estou trabalhando Em: Projetos para Portfolio
-- 🌱 Estou estudando: Front End
+- 🌱 Estou estudando: Front End e Back End
 - 📫 Moro em: São Paulo, Brasil
 - 😄 Pronomes: ele/dele
 
