@@ -18,7 +18,7 @@
   
 
   <!--📏LINE-->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
   
   <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
   <h1 align="center">STATUS</h1>
