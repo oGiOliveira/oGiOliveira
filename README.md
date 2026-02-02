@@ -18,7 +18,7 @@
   
 
   <!--📏LINE-->
-  <hr>
+  
   
   <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ 
   <h1 align="center">STATUS</h1>
@@ -64,5 +64,5 @@
   -->
   
   <!--📏LINE-->
-  <hr>
+  
   
