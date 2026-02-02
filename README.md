@@ -20,14 +20,14 @@
   <!--📏LINE-->
   <hr>
   
-  <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+  <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ 
   <h1 align="center">STATUS</h1>
   
-  <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+  <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats 
   <p align="center">
   <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=oGiOliveira&show_icons=true&theme=tokyonight&border_color=8892D4">
   
-  <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+  <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats 
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=oGiOliveira&theme=tokyonight&border=8892D4">
 
   <!--
@@ -42,14 +42,14 @@
    </div>
    -->
   
-  <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
+  <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter 
   <p align="center">
     <a href="https://github.com/oGiOliveira?tab=stars&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=D1A6FF&labelColor=444952&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/oGiOliveira"/></a>
   <a href="https://github.com/oGiOliveira?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/oGiOliveira?color=6873D6&labelColor=444952&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   
-  <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+  <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter 
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oGiOliveira&color=2A3780&style=for-the-badge">
   
